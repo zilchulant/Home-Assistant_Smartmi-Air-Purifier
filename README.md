@@ -92,6 +92,8 @@ This flow reads the provided attributes and creates sensors with values. These a
 
 <details><summary>Node-RED flow for Xiaomi Smartmi Fan</summary>
 <p>
+
+```
 [
     {
         "id": "b0783ecb7cd0b347",
@@ -2513,6 +2515,8 @@ This flow reads the provided attributes and creates sensors with values. These a
         "heartbeatInterval": "30"
     }
 ]
+```
+
 </details></p>
 
 <br>
