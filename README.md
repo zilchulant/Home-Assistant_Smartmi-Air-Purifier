@@ -1,6 +1,6 @@
 # Home-Assistant Smartmi Air Purifier
 
-How to get the Smartmi Air Purifier (zhimi.airpurifier.za1) working in Home Assistant with the help of HACS and Node-RED.
+How to get the Smartmi Air Purifier (zhimi.airpurifier.za1) working in Home Assistant with the help of HACS and Node-RED. This works with the current state of Home Assistant, Node-RED, HACS and the used github repositories.
 
 - [Home-Assistant Smartmi Air Purifier](#home-assistant-smartmi-air-purifier)
   - [Necessary Addons & Tools](#necessary-addons--tools)
